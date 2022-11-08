@@ -1,0 +1,432 @@
+
+
+
+
+header {
+  width: 1440px;
+  position: sticky;
+  top: 0px;
+  z-index: 100;
+  background-color: #F6F8F9;
+  font-family: "helvetica";
+
+}
+.logo {
+
+ 
+  display: inline-block;
+  font-weight: 400;
+  font-weight: bold;
+  margin: 18px 0px 17px 20px;
+}
+
+
+.container {
+
+max-width: 1440px;
+
+
+}
+
+
+
+
+h1{
+  
+ 
+  color: #FA6980;
+  font-size:  13px;
+  display: inline-block;
+
+  
+  }
+
+    
+  li{
+
+    display: inline-block;
+    margin: 0px 0px 6px 27px;
+
+  }
+  
+
+
+  
+  
+.topmenu{
+
+   display: inline-block;
+
+}
+
+
+
+  
+
+nav {
+
+
+font-weight: bold;
+margin-left: 99px;
+font-size: 11px;
+display: inline-block;
+
+}
+
+.home {
+opacity: 1;
+
+  font-weight: 700;
+  color: #343638;
+
+}
+
+.opicit {
+
+  opacity: 0.5;
+
+
+}
+
+.avatar{
+
+  display: inline-block;
+
+  vertical-align: middle;
+
+  margin-left: 40px;
+}
+
+h2, h3{
+
+font-family: "helvetica";
+  color: #202124;
+  font-size:  24px;
+  font-weight: bold;
+}
+
+.trending{
+
+width: 1160px;
+height: 410px;
+margin-top: 75px ;
+box-sizing: border-box;
+margin-left: 140px ;
+
+
+
+}
+
+
+
+.maintop{
+
+
+margin-top: 40px;
+}
+
+
+.topleftsection{
+
+ background-color: #FFFFFF;
+width: 360px;
+height:350px ;
+
+box-sizing: border-box;
+display: inline-block;
+position: relative;
+  
+}
+
+.firsttop{
+  
+border-radius: 6px;
+margin-left: auto;
+
+}
+
+
+.lorem{
+
+width: 280px;
+height: 38px ;
+font-size: 13px;
+color: #A6ADB4;
+position: absolute;
+bottom: 66px ;
+left: 40px;
+
+}
+
+.clock{
+
+  width: 69px;
+height: 16px ;
+
+position: absolute;
+
+left: 40px;
+bottom: 40px;
+
+}
+
+.time{
+  
+  font-size: 13px;
+  color: #A6ADB4;
+position: absolute;
+top: 2px;
+left: 24px;
+
+}
+
+
+.textontop{
+
+  width: 280px;
+  height: 16px;
+  font-family: "helvetica";
+  font-size: 16px;
+  font-weight: bold;
+  color: #FFFFFF;
+  position: absolute;
+  top: 28px;
+  left: 40px;
+
+}
+
+
+
+.topcentersection{
+
+ background-color: #FFFFFF;
+width: 360px;
+height:350px ;
+display: inline-block;
+margin-left: 35px;
+position: relative;
+  }
+
+
+.secondtop{
+
+border-radius: 6px;
+
+}
+
+
+.toprightsection {
+
+
+
+ background-color: #FFFFFF;
+width: 360px;
+height:350px ;
+display: inline-block;
+  margin-left: 35px;
+  position: relative;
+}
+
+.righttop{
+
+border-radius: 6px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.HAPPENING{
+width: 770px;
+height: 20px;
+margin-top: 58px;
+margin-left: 140px;
+
+box-sizing: border-box;
+}
+
+
+
+.leftpic{
+
+  width: 760px;
+  height: 900px;
+  margin-left: 140px;
+  margin-top: 40px;
+  display: inline-block;
+  margin-bottom: 40px;
+  position: relative;
+}
+
+
+.textoncenter{
+
+  width: 280px;
+  height: 16px;
+  font-family: "helvetica";
+  font-size: 16px;
+  font-weight: bold;
+  color: #FFFFFF;
+  position: absolute;
+  top: 194px;
+  left: 308px;
+}
+.leftfirst {
+margin-bottom: 40px;
+
+}
+
+.rightpic{
+
+  width: 360px;
+  height: 896px;
+  
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 40px;
+margin-left: 40px;
+
+}
+.rightfirst {
+margin-bottom: 120px;
+
+}
+.secondright{
+
+  margin-bottom: 102px;
+}
+
+
+.footinfo{
+
+  width: 1440px;
+  height: 200px;
+  background-color: #A6ADB4;
+  margin-top: 37px;
+  margin-left: ;
+  position: relative;
+
+}
+
+.footerlogo{
+
+font-family: "helvetica";
+font-size: 13px;
+margin-top: 54px;
+margin-left: 142px;
+  color: #FFFFFF;
+  display: inline-block;
+}
+
+h4{
+
+  font-weight: bold;
+  display: inline-block;
+  color: #FFFFFF;
+  vertical-align: top;
+}
+
+.menubottom{
+
+  font-family: "helvetica";
+line-height: 1.6;
+font-size: 13px;
+color: #CBD0D3;
+font-weight: bold;
+display: inline-block;
+margin-left: 91.1px;
+
+
+}
+
+
+
+.menubottom2{
+
+  font-family: "helvetica";
+  line-height: 1.6;
+font-size: 13px;
+color: #CBD0D3;
+font-weight: bold;
+display: inline-block;
+margin-left: 96.7px;
+
+}
+
+.menubottom3{
+
+  font-family: "helvetica";
+  line-height: 1.6;
+font-size: 13px;
+font-weight: bold;
+color: #CBD0D3;
+display: inline-block;
+margin-left: 110.2px;
+}
+
+.product{
+
+  width: 243px;
+  height: 9px;
+font-family: "helvetica";
+font-size: 11px;
+color: #CBD0D3;
+margin-top: 62px;
+
+  margin-left: 104.9px;
+  display: inline-block;
+ vertical-align: top;
+
+}
+
+.socicons{
+width: 160px;
+height: 16px;
+
+
+display: inline-block; 
+
+position: absolute;
+letter-spacing: 25px;
+right: 138.8px;
+top: 56px;
+}
+
+.faq{
+
+
+position: fixed;
+
+left: 18px;
+
+bottom: 15px;
+}
+
+div.lorem{
+font-family: 'Acumin Pro', sans-serif;
+  
+}
+
+div.time{
+
+  font-family: "helvetica";
+}
+
+body{
+
+
+  background-color:#F6F8F9 ;
+}
